@@ -14,6 +14,7 @@ Yoe Gi Thab is an electric burner used to reduce carbon emission.
 ## Power reader teardown
 [Power reader](https://www.youtube.com/watch?v=hs4CMwghRUQ)
 
-##V9261F Chip datasheet
+## V9261F Chip datasheet
 The V9261F chip is a specialized integrated circuit designed for use in smart meters, particularly for applications involving data communication and power management.
+
 [V9261F](https://www.vangotech.com/uploadpic/163903944460.pdf)
